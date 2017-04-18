@@ -1,6 +1,12 @@
 # Firebase Admin Node.js SDK
 
-# Extends Options
+## Install
+
+```
+npm install firebase-admin-proxy --save
+```
+
+## Extends Options
 ```js
 const caw = require("caw");
 const https = require("https");
